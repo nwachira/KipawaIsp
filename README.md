@@ -1,4 +1,3 @@
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)](https://s.id/standwithpalestine)
 
 # Kipawa - PHP Mikrotik Billing
 
